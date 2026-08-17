@@ -3,7 +3,7 @@ Building AI Course – Project Idea Sustainability Agent
 
 ## Final project for the Building AI course - an agent for sustainability work
 
-## Background and Summary
+## Summary
 The agent is intended to support horizon scanning and business intelligence of sustainability-related laws and regulations in Sweden and at EU level, conduct regulatory analysis, research and benchmarking.
 Given the rapid development of the sustainability field, it is particularly important to stay continuously up to date with the latest developments.
 
